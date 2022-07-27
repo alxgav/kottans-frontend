@@ -1,2 +1,1 @@
 # kottans-frontend
-learn frontend
